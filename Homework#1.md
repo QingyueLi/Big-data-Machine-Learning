@@ -1,6 +1,6 @@
 # Day1
 
-We discussed that how the camera could catch up the data and use these data to create their own function. 
+- We discussed that how the camera could catch up the data and use these data to create their own function. 
 We learned something about the supervised learning, which is already given the x (explanatory variable) and y (response variable) data set. 
 We explored the y variable more. For the respone variable, it can be divided into continous data and discrete data.  
 Continous data is measured out, from crtain range, we can have any number. The exmaple for this could be the temperature. 
