@@ -1,4 +1,4 @@
-Day#1.md
+Day#
 
 We discussed that how the camera could catch up the data and use these data to create their own function. 
 We learned something about the supervised learning, which is already given the x (explanatory variable) and y (response variable) data set. 
