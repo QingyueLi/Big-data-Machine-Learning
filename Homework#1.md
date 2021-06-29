@@ -1,4 +1,4 @@
-Day#
+# Day1
 
 We discussed that how the camera could catch up the data and use these data to create their own function. 
 We learned something about the supervised learning, which is already given the x (explanatory variable) and y (response variable) data set. 
@@ -10,4 +10,4 @@ First stage is to collection data, use that data to explore the function.
 Second stage is put the function that already made in the software product and punish to the community to collect new data. 
 We also talk about some intro of R language. 
 
-Things want to learn:
+# Things want to learn:
