@@ -23,5 +23,5 @@ Intro of R language:
 - *cbind(z, tmp1)* column bind, add the column z into the beginning of the table tmp1
 - be careful with the length of both table and new column or row!!!
 
-# Things want to learn:
+# Things want to learn right now:
 I want to learn more about the R language, the application of R language,. Also want to explore how to analysis the data, using these data, processing the function and model. 
