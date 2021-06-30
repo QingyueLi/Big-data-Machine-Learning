@@ -35,5 +35,4 @@ DataInfro = function(length, numPath, sd)
   }
 }
 
-
 DataInfro(100, 50, 0.05) # each path is created by 100 data, there are total 50 replicated paths
